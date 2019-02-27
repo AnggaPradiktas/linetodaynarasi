@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXWLN9T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+<![CDATA[
+<!-- Google Tag Manager -->
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXWLN9T');
+<!-- End Google Tag Manager -->
+]]>
+</script>
+
+
 <articles> 
     <UUID>ddab4c8c-bf40-48a0-a4f9-efb23ff84b61</UUID> 
     <time>1550739600000</time>
     <article>
-        <ID>kamar-ganti-pandit</ID> 
+        <ID>jadi-crazy-rich</ID> 
         <nativeCountry>ID</nativeCountry> 
         <language>id</language> 
         <publishCountries>
@@ -12,33 +33,28 @@
         
         <startYmdtUnix>1550739600000</startYmdtUnix> 
         <endYmdtUnix>1550826000000</endYmdtUnix> 
-        <title>Joko Driyono Bisa Apa? | Kamar Ganti Pandit</title> 
+        <title>Jadi Crazy Rich | Sarah Secharian</title> 
         <category>Narasi TV</category> 
         <publishTimeUnix>1550739600000</publishTimeUnix> 
 
         <contentType>1</contentType>
         
-        <thumbnail>
-            <title>Kamar Ganti Pandit</title>  
-            <description>Kamar Ganti Pandit</description> 
-            <url>https://ibb.co/z7wLpRQ</url> 
-            <thumbnail>Kamar Ganti Pandit</thumbnail> 
-        </thumbnail>
-
         <contents>
             <video>
-                <title>Joko Driyono Bisa Apa? | Kamar Ganti Pandit</title> 
-                <description>Joko Driyono atau orang biasanya panggil Jokdri. Nama yang tak asing lagi dalam sepak bola. </description> 
-                <url>https://bcove.video/2E2ktyp</url>
+                <title>Jadi Crazy Rich | Sarah Secharian</title> 
+                <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description> 
+                <thumbnail>https://drive.google.com/file/d/16w63Wh07VmCx5B3WFVrovdpw6bhrauJG/view?usp=sharing</thumbnail> 
+                <url>"https://bcove.video/2GQfJ2L"</url>
             </video>
             <text>
                 <content> 
-                Joko Driyono atau orang biasanya panggil Jokdri. 
-                Nama yang tak asing lagi dalam sepak bola. 
-                Sejak 2001 ada dalam lingkaran Persatuan Sepak Bola Seluruh Indonesia. 
-                Karirnya terus meroket, bermetamorfosa dari amatir menjadi profesional sekaligus rangkap jabatan. 
-                Berkuasa, bebas mengatur apa saja. Meskipun sepak bola carut – marut, sampai PSSI dibekukan, Jokdri masih bisa kendalikan liga. 
-                Sudah enam ketua umum gonta-ganti, tapi Jokdri tetap ada di PSSI. Itu sudah!
+                Selintas, jadi seorang crazy rich kayaknya enak. 
+                Bisa belanja sana-sini tanpa mikir keluar uang banyak, makan enak dan mahal, liburan singkat ke luar negeri atau bahkan sekadar numpang tidur di hotel mewah.
+                Tapi, apa benar seenak itu? Gimana caranya bisa hidup seenak itu? Kalau bukan warisan, apa bisa?
+                Nah, di episode ketiganya ini Sarah Sechan seharian mencoba hidup jadi crazy rich di Jakarta.
+                Dari bangun tidur di hotel seharga ratusan juta rupiah sampai makan di resto mewah!
+                Apalagi, selama seharian kegiatannya ini ditemani seorang asisten yang merangkap ajudan!
+                Lihat kehebohan Sarah Secharian Jadi Crazy Rich di episode kali ini.
                 </content> 
             </text>
         </contents>
