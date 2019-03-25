@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+<articles> 
+    <UUID>ddab4c8c-bf40-48a0-a4f9-efb23ff84b61</UUID> 
+    <time>1550739600000</time>
+    <article>
+        <ID>1288</ID> 
+        <nativeCountry>ID</nativeCountry> 
+        <language>id</language> 
+        <publishCountries>
+            <country>id</country>
+        </publishCountries> 
+        
+        <startYmdtUnix>1550739600000</startYmdtUnix> 
+        <endYmdtUnix>1550826000000</endYmdtUnix> 
+        <title>Jadi Crazy Rich | Sarah Secharian</title> 
+        <category>Narasi TV</category> 
+        <publishTimeUnix>1550739600000</publishTimeUnix> 
+
+        <contentType>5</contentType>
+        
+        <contents>
+            <video>
+                <title>Jadi Crazy Rich | Sarah Secharian</title> 
+                <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description> 
+                <thumbnail>https://ibb.co/WpB8kgF</thumbnail> 
+                <url>"https://bcove.video/2GQfJ2L"</url>
+            </video>
+        </contents>
+    </article>
