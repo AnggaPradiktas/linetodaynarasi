@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<articles> 
+    <UUID>54fc5876-9b4a-4897-ae15-14031c55b895</UUID> 
+    <time>15566364000000</time>
+    <article>
+        <ID>1288</ID> 
+        <nativeCountry>ID</nativeCountry> 
+        <language>id</language> 
+        <publishCountries>
+            <country>id</country>
+        </publishCountries> 
+        
+        <startYmdtUnix>15566364000000</startYmdtUnix> 
+        <endYmdtUnix>1556701200000</endYmdtUnix> 
+        <title>Jadi Crazy Rich | Sarah Secharian</title> 
+        <category>Narasi TV, Sarah Secharian</category> 
+        <publishTimeUnix>15566364000000</publishTimeUnix> 
+
+        <contentType>5</contentType>
+        
+        <contents>
+            <image>
+                <title>Jadi Crazy Rich | Sarah Secharian</title>
+                <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description>
+                <url> <![CDATA[https://www.narasi.tv/sarah-secharian/jadi-crazy-rich_1288]]></url>
+                <thumbnail> 
+                <![CDATA[https://drive.google.com/file/d/1o3pA5ic6umnwtC9hpf_D4iJdKwaP9VY6/view?usp=sharing]]>
+                </thumbnail>
+            </image>
+
+            <video>
+                <title>Jadi Crazy Rich | Sarah Secharian</title> 
+                <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description> 
+                <url>
+                <![CDATA[https://drive.google.com/file/d/1dPvgpwguW489w8vVft3c6zC9nuJMFXSd/view?usp=sharing]]>
+                </url>
+                <thumbnail>
+                <![CDATA[https://drive.google.com/file/d/1o3pA5ic6umnwtC9hpf_D4iJdKwaP9VY6/view?usp=sharing]]>
+                </thumbnail>
+            </video>
+        </contents>
+    </article>
+</articles>
