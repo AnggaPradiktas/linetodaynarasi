@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<articles> 
+    <UUID>a9d3d77e-6a96-4dbd-b4ab-3945e9a593d3</UUID> 
+    <time>1557154800000</time>
+    <article>
+        <ID>1288</ID> 
+        <nativeCountry>ID</nativeCountry> 
+        <language>id</language> 
+        <publishCountries>
+            <country>id</country>
+        </publishCountries> 
+        
+        <startYmdtUnix>1557154800000</startYmdtUnix> 
+        <endYmdtUnix>1557219600000</endYmdtUnix> 
+        <title>Jadi Crazy Rich | Sarah Secharian</title> 
+        <category>Sarah Secharian</category> 
+        <publishTimeUnix>1557154800000</publishTimeUnix> 
+
+        <contentType>5</contentType>
+        
+        <contents>
+            <video>
+                <title>Jadi Crazy Rich | Sarah Secharian</title> 
+                <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description> 
+                <url>
+                https://00e9e64bac1b0d7bb5b36ca3ccfb9d5df0782172c22a4077fa-apidata.googleusercontent.com/download/storage/v1/b/youtubevideo_narasitv/o/Hidup%20ala%20Crazy%20Rich%20-%20Sarah%20Secharian.mp4?qk=AD5uMEtHWCbYcAFBt6RfVWhPKBm2Fc82BKiqX3mcuyL1NTcJFxYN7JWc-hn_G5JgKSfivEaGyYZLQCovyD5QScJK9VwobqE0a-bX0SV_aUfnlLNDzWihJHE4WwkCYsUj2H62QcgwURyM1vx1p66pk3R_PQIB09yyY6M2JYYm7qXtocuHB1rg6JhzT5oUBBVeY-Ns1jjfdj7tRVu4ik39K3MTc8IHgTNr5klXfBVOEaVDXIf4jfe1VqSF1tbsL55T8O04C2Lxy0oYq_L2p4uYT1zEGHB519dczTzYGQif4JC0QvnJEIZUWlA5KtFcZo9iE4tIJe3TgQ6nTHdSK8wDVAFV7L6MAonagBTcs4QaLlMBz4_BZSZPf9TNr1nsQ4qFre4ZcnadFgCMUYh0NLc2CAvZf4CUmT6GhkbwtLq__rvraPHlaBRmBu5ityTWO6wsS7UYwjd-VZw7OWej4DliiyY1IUHUHSHUifRlBhuWczqKwYCI2JiWF8p2Yf_FVqtwRX04hp5mq_Be6_zffDAodi9K9-6X3jbd3ezo-W3Vme2SIC5WJAnxvkettqgkT2YtOgb1hpyBkYwTYP1nxEwtu2ichinQLKPeJoHB9gmQGGkcQirkE2vze8qngdZgkltNCU0DSOkT1g20fVZk5AvwWmBtLXMnjVixb1qvK7qHPGZQO-V6zHxGTFEdQfZEA6TAYP3uZwQ3xR3QPUufW4ODfDluYMcxrfT6MQTRWEoLlQ703rdYht-7BoOud34L2IvThbY-LRCWX0WJsHew8nIY1n3yVx70Ca95ffjuUn30SmiZ7Wmj0Rd4Y5qWf_YdQ7e-7Li3MWrZodlHEKWMaWbK6NUeWKIF5fGWVQ
+                </url>
+            </video>
+        </contents>
+        <author>Narasi TV</author>
+        <sourceUrl>
+        https://www.narasi.tv/sarah-secharian/jadi-crazy-rich_1288
+        </sourceUrl>
+    </article>
+</articles>
