@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<articles>
+    <UUID>1b8191e7-80dc-4db7-bd4e-967928510c85</UUID>
+    <time>1557248400000</time>
+    <article>
+        <ID>1288</ID>
+        <nativeCountry>ID</nativeCountry>
+        <language>ID</language>
+        <publishCountries>
+            <country>ID</country>
+        </publishCountries>
+
+        <startYmdtUnix>1557248400000</startYmdtUnix> 
+        <endYmdtUnix>1557219600000</endYmdtUnix> 
+        <title>Jadi Crazy Rich | Sarah Secharian</title> 
+        <category>Sarah Secharian</category> 
+        <publishTimeUnix>1557306000000</publishTimeUnix> 
+
+        <contentType>5</contentType>
+
+        <contents>
+            <video>
+                <title>Jadi Crazy Rich | Sarah Secharian</title> 
+                <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description> 
+                <url>https://bit.ly/2VQGrPD</url>
+            </video>
+        </contents>
+    
+    </article>
+</articles>
