@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <articles>
-    <UUID>e364cc00-690e-4c8f-a26f-ba2b96fc69b8</UUID>
+    <UUID>cbd8fbcd-a296-4c13-8877-6cac437c6ce0</UUID>
     <time>1557741197000</time>
     <article>
         <ID>1288</ID>
@@ -11,11 +11,11 @@
             <country>ID</country>
         </publishCountries>
 
-        <startYmdtUnix>1557741197000</startYmdtUnix> 
-        <endYmdtUnix>1557913997000</endYmdtUnix> 
+        <startYmdtUnix>1558500955000</startYmdtUnix> 
+        <endYmdtUnix>1558587355000</endYmdtUnix> 
         <title>Jadi Crazy Rich | Sarah Secharian</title> 
         <category>Sarah Secharian</category> 
-        <publishTimeUnix>1557913997000</publishTimeUnix> 
+        <publishTimeUnix>1558587355000</publishTimeUnix> 
 
         <contentType>5</contentType>
 
@@ -25,6 +25,17 @@
                 <description>Masih ingat sama pasangan Crazy Rich Surabayan? Atau film Crazy Rich Asian?</description> 
                 <url>https://bit.ly/2VQGrPD</url>
             </video>
+            
+            <text>
+                <content>
+                    <![CDATA[
+                        <p>Kanal yang lagi seger-segernya nih di Narasi.tv, namanya Sarah Secharian. Siapa yang sudah nonton keseharian teh Sarah dari episode perdananya?</p>
+                        <p>Mumpung episodenya jadi orang kaya raya, tim Kejar Tayang juga enggak mau ketinggalan nih ngerasain jadi Crazy Rich bareng tim Sarah Secharian, hehe. Mulai dari ikut menginap di hotel yang harganya ratusan juta per malam, sampai nemenin teh Sarah beli ini itu yang harganya juga..ga kalah mahal dengan si hotel. Yaa..walaupun cuma nemenin, tapi tetep seneng kok, hehehe.</p>
+                        <p>Teh Sarah juga enjoy banget nih jadi orang kaya seharian, saking enjoynya, sampai enggak mau diatur sama produsernya, kayak model penganut ‘Orang kaya mah bebaaassss'.</p>
+                        <p>Mau ngerasain jadi crazy rich juga enggak? Nonton yuk selengkapnya di Kejar Tayang <a class="vglnk" href="http://www.narasi.tv" rel="nofollow"><span>www</span><span>.</span><span>narasi</span><span>.</span><span>tv</span></a></p>
+                     ]]>
+                </content>
+            </text>
         </contents>
     
     </article>
